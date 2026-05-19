@@ -1,0 +1,14 @@
+/home/geronimo/Escritorio/Codigos/poo/ej2/proy2/obj/Debug/net10.0/ej2_cronometro.GeneratedMSBuildEditorConfig.editorconfig
+/home/geronimo/Escritorio/Codigos/poo/ej2/proy2/obj/Debug/net10.0/ej2_cronometro.AssemblyInfoInputs.cache
+/home/geronimo/Escritorio/Codigos/poo/ej2/proy2/obj/Debug/net10.0/ej2_cronometro.AssemblyInfo.cs
+/home/geronimo/Escritorio/Codigos/poo/ej2/proy2/obj/Debug/net10.0/ej2_cronometro.csproj.CoreCompileInputs.cache
+/home/geronimo/Escritorio/Codigos/poo/ej2/proy2/bin/Debug/net10.0/ej2_cronometro
+/home/geronimo/Escritorio/Codigos/poo/ej2/proy2/bin/Debug/net10.0/ej2_cronometro.deps.json
+/home/geronimo/Escritorio/Codigos/poo/ej2/proy2/bin/Debug/net10.0/ej2_cronometro.runtimeconfig.json
+/home/geronimo/Escritorio/Codigos/poo/ej2/proy2/bin/Debug/net10.0/ej2_cronometro.dll
+/home/geronimo/Escritorio/Codigos/poo/ej2/proy2/bin/Debug/net10.0/ej2_cronometro.pdb
+/home/geronimo/Escritorio/Codigos/poo/ej2/proy2/obj/Debug/net10.0/ej2_cronometro.dll
+/home/geronimo/Escritorio/Codigos/poo/ej2/proy2/obj/Debug/net10.0/refint/ej2_cronometro.dll
+/home/geronimo/Escritorio/Codigos/poo/ej2/proy2/obj/Debug/net10.0/ej2_cronometro.pdb
+/home/geronimo/Escritorio/Codigos/poo/ej2/proy2/obj/Debug/net10.0/ej2_cronometro.genruntimeconfig.cache
+/home/geronimo/Escritorio/Codigos/poo/ej2/proy2/obj/Debug/net10.0/ref/ej2_cronometro.dll

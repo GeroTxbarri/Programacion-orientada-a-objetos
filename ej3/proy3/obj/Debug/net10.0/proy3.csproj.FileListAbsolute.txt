@@ -1,0 +1,14 @@
+/home/geronimo/Escritorio/Codigos/poo/ej3/proy3/obj/Debug/net10.0/proy3.GeneratedMSBuildEditorConfig.editorconfig
+/home/geronimo/Escritorio/Codigos/poo/ej3/proy3/obj/Debug/net10.0/proy3.AssemblyInfoInputs.cache
+/home/geronimo/Escritorio/Codigos/poo/ej3/proy3/obj/Debug/net10.0/proy3.AssemblyInfo.cs
+/home/geronimo/Escritorio/Codigos/poo/ej3/proy3/obj/Debug/net10.0/proy3.csproj.CoreCompileInputs.cache
+/home/geronimo/Escritorio/Codigos/poo/ej3/proy3/bin/Debug/net10.0/proy3
+/home/geronimo/Escritorio/Codigos/poo/ej3/proy3/bin/Debug/net10.0/proy3.deps.json
+/home/geronimo/Escritorio/Codigos/poo/ej3/proy3/bin/Debug/net10.0/proy3.runtimeconfig.json
+/home/geronimo/Escritorio/Codigos/poo/ej3/proy3/bin/Debug/net10.0/proy3.dll
+/home/geronimo/Escritorio/Codigos/poo/ej3/proy3/bin/Debug/net10.0/proy3.pdb
+/home/geronimo/Escritorio/Codigos/poo/ej3/proy3/obj/Debug/net10.0/proy3.dll
+/home/geronimo/Escritorio/Codigos/poo/ej3/proy3/obj/Debug/net10.0/refint/proy3.dll
+/home/geronimo/Escritorio/Codigos/poo/ej3/proy3/obj/Debug/net10.0/proy3.pdb
+/home/geronimo/Escritorio/Codigos/poo/ej3/proy3/obj/Debug/net10.0/proy3.genruntimeconfig.cache
+/home/geronimo/Escritorio/Codigos/poo/ej3/proy3/obj/Debug/net10.0/ref/proy3.dll
