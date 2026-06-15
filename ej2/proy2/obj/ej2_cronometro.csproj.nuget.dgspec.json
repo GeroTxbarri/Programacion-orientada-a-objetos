@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/geronimo/Escritorio/Codigos/poo/ej2/proy2/ej2_cronometro.csproj": {}
+    "/home/geronimo/Codigos/codigos2026/poo/ej2/proy2/ej2_cronometro.csproj": {}
   },
   "projects": {
-    "/home/geronimo/Escritorio/Codigos/poo/ej2/proy2/ej2_cronometro.csproj": {
+    "/home/geronimo/Codigos/codigos2026/poo/ej2/proy2/ej2_cronometro.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/geronimo/Escritorio/Codigos/poo/ej2/proy2/ej2_cronometro.csproj",
+        "projectUniqueName": "/home/geronimo/Codigos/codigos2026/poo/ej2/proy2/ej2_cronometro.csproj",
         "projectName": "ej2_cronometro",
-        "projectPath": "/home/geronimo/Escritorio/Codigos/poo/ej2/proy2/ej2_cronometro.csproj",
+        "projectPath": "/home/geronimo/Codigos/codigos2026/poo/ej2/proy2/ej2_cronometro.csproj",
         "packagesPath": "/home/geronimo/.nuget/packages/",
-        "outputPath": "/home/geronimo/Escritorio/Codigos/poo/ej2/proy2/obj/",
+        "outputPath": "/home/geronimo/Codigos/codigos2026/poo/ej2/proy2/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/geronimo/.nuget/NuGet/NuGet.Config"

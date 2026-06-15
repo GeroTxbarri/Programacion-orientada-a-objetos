@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/geronimo/Escritorio/Codigos/poo/ej3/proy3/proy3.csproj",
+      "projectUniqueName": "/home/geronimo/Codigos/codigos2026/poo/ej3/proy3/proy3.csproj",
       "projectName": "proy3",
-      "projectPath": "/home/geronimo/Escritorio/Codigos/poo/ej3/proy3/proy3.csproj",
+      "projectPath": "/home/geronimo/Codigos/codigos2026/poo/ej3/proy3/proy3.csproj",
       "packagesPath": "/home/geronimo/.nuget/packages/",
-      "outputPath": "/home/geronimo/Escritorio/Codigos/poo/ej3/proy3/obj/",
+      "outputPath": "/home/geronimo/Codigos/codigos2026/poo/ej3/proy3/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/geronimo/.nuget/NuGet/NuGet.Config"

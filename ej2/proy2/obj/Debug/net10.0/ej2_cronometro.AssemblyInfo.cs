@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ej2_cronometro")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a3aa89a1053f397eee8e6d77b54447f19462be3c")]
 [assembly: System.Reflection.AssemblyProductAttribute("ej2_cronometro")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ej2_cronometro")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

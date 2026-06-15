@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
     public class Program{
 
@@ -19,7 +19,7 @@
             CuentaCorriente corriente2 = new CuentaCorriente(500);
             banco.agregarCuenta(ahorro2);
             banco.agregarCuenta(corriente2);
-            ahorro.depositar(1000);
+            ahorro2.depositar(1000);
             banco.transferir(ahorro2, corriente2, 300); // debe funcionar
             banco.transferir(ahorro2, corriente2, 900); // debe rechazarse, saldo insuficiente
 

@@ -12,7 +12,7 @@ public class CuentaCorriente : CuentaBancaria{
 
         int saldo = Devolversaldo();
 
-        if (saldo - saldo_a_extraer <limite){
+        if (saldo - saldo_a_extraer < -limite){
             Console.WriteLine ( "Error: no se permite saldo menor que el limite");
             return false;
         }

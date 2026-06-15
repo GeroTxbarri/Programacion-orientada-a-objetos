@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/geronimo/Codigos/codigos2026/poo/ejercicio5/ejercicio5.csproj": {}
+    "/home/geronimo/Codigos/codigos2026/poo/ej5/ejercicio5/ejercicio5.csproj": {}
   },
   "projects": {
-    "/home/geronimo/Codigos/codigos2026/poo/ejercicio5/ejercicio5.csproj": {
+    "/home/geronimo/Codigos/codigos2026/poo/ej5/ejercicio5/ejercicio5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/geronimo/Codigos/codigos2026/poo/ejercicio5/ejercicio5.csproj",
+        "projectUniqueName": "/home/geronimo/Codigos/codigos2026/poo/ej5/ejercicio5/ejercicio5.csproj",
         "projectName": "ejercicio5",
-        "projectPath": "/home/geronimo/Codigos/codigos2026/poo/ejercicio5/ejercicio5.csproj",
+        "projectPath": "/home/geronimo/Codigos/codigos2026/poo/ej5/ejercicio5/ejercicio5.csproj",
         "packagesPath": "/home/geronimo/.nuget/packages/",
-        "outputPath": "/home/geronimo/Codigos/codigos2026/poo/ejercicio5/obj/",
+        "outputPath": "/home/geronimo/Codigos/codigos2026/poo/ej5/ejercicio5/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/geronimo/.nuget/NuGet/NuGet.Config"

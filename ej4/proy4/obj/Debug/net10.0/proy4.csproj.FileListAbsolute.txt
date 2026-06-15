@@ -1,0 +1,15 @@
+/home/geronimo/Codigos/codigos2026/poo/ej4/proy4/obj/Debug/net10.0/proy4.GeneratedMSBuildEditorConfig.editorconfig
+/home/geronimo/Codigos/codigos2026/poo/ej4/proy4/obj/Debug/net10.0/proy4.AssemblyInfoInputs.cache
+/home/geronimo/Codigos/codigos2026/poo/ej4/proy4/obj/Debug/net10.0/proy4.AssemblyInfo.cs
+/home/geronimo/Codigos/codigos2026/poo/ej4/proy4/obj/Debug/net10.0/proy4.csproj.CoreCompileInputs.cache
+/home/geronimo/Codigos/codigos2026/poo/ej4/proy4/obj/Debug/net10.0/proy4.sourcelink.json
+/home/geronimo/Codigos/codigos2026/poo/ej4/proy4/bin/Debug/net10.0/proy4
+/home/geronimo/Codigos/codigos2026/poo/ej4/proy4/bin/Debug/net10.0/proy4.deps.json
+/home/geronimo/Codigos/codigos2026/poo/ej4/proy4/bin/Debug/net10.0/proy4.runtimeconfig.json
+/home/geronimo/Codigos/codigos2026/poo/ej4/proy4/bin/Debug/net10.0/proy4.dll
+/home/geronimo/Codigos/codigos2026/poo/ej4/proy4/bin/Debug/net10.0/proy4.pdb
+/home/geronimo/Codigos/codigos2026/poo/ej4/proy4/obj/Debug/net10.0/proy4.dll
+/home/geronimo/Codigos/codigos2026/poo/ej4/proy4/obj/Debug/net10.0/refint/proy4.dll
+/home/geronimo/Codigos/codigos2026/poo/ej4/proy4/obj/Debug/net10.0/proy4.pdb
+/home/geronimo/Codigos/codigos2026/poo/ej4/proy4/obj/Debug/net10.0/proy4.genruntimeconfig.cache
+/home/geronimo/Codigos/codigos2026/poo/ej4/proy4/obj/Debug/net10.0/ref/proy4.dll

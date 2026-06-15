@@ -8,13 +8,13 @@ public class Banco {
     {
         cuentas = new List<CuentaBancaria>();
     }
-    public void AgregarCuenta (CuentaBancaria cuenta){
+    public void agregarCuenta (CuentaBancaria cuenta){
 
         cuentas.Add(cuenta);
 
     }
 
-    public void Transferir (CuentaBancaria origen, CuentaBancaria destino, int monto){
+    public void transferir (CuentaBancaria origen, CuentaBancaria destino, int monto){
 
         if (monto <= 0){
 
